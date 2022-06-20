@@ -28,6 +28,7 @@
 const char *ssid = "NETWORK_NAME";
 const char *password = "NETWORK_PASSWORD";
 ```
+> Zudem sind evtl. noch änderungen an den Pin definitionen nötig, Zeile 11-26.
 
 <br>
 
