@@ -6,19 +6,15 @@
 
 > - **[AsyncTCP.h](https://github.com/me-no-dev/AsyncTCP)**
 > - **[ESPAsyncWebServer.h](https://github.com/me-no-dev/ESPAsyncWebServer)**<br><br>
-> - **WiFi.h**<br><br>
->
-> <p style="font-size: 10px; line-height: 1;">Die Bibliotheken vor dem Absatz müssen von der dort angegebenen Website heruntergeladen werden<br><br></p>
+> - **WiFi.h**
 
----
+> Die Bibliotheken vor dem Absatz müssen von der dort angegebenen Website heruntergeladen werden
 
 ## Fileupload auf den ESP32
 
 > Ich verwende hier SPIFFS um Dateien auf den ESP32 zu laden.
 > Um Dateien zu laden, gehe zu:
 > ArduinoIDE &rarr; Werkzeuge &rarr; ESP32 Sketch Data Upload
-
----
 
 ## WiFi Daten ändern
 
