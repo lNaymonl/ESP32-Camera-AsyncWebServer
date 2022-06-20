@@ -10,11 +10,15 @@
 
 > Die Bibliotheken vor dem Absatz müssen von der dort angegebenen Website heruntergeladen werden
 
+<br>
+
 ## Fileupload auf den ESP32
 
 > Ich verwende hier SPIFFS um Dateien auf den ESP32 zu laden.
 > Um Dateien zu laden, gehe zu:
 > ArduinoIDE &rarr; Werkzeuge &rarr; ESP32 Sketch Data Upload
+
+<br>
 
 ## WiFi Daten ändern
 
@@ -24,6 +28,8 @@
 const char *ssid = "NETWORK_NAME";
 const char *password = "NETWORK_PASSWORD";
 ```
+
+<br>
 
 ## Upload
 
